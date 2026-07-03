@@ -24,8 +24,8 @@
 <table align="center" border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" width="350" style="border: none;">
-      <!-- GIF Animasi Coding -->
-      <img src="https://media.giphy.com/media/qgQUggCGl7n2y6C4X8/giphy.gif" width="250" alt="Coding GIF" />
+      <!-- Logo Digital Hacker -->
+      <img src="https://media.tenor.com/4zQO53v90bIAAAAi/hacker-typing.gif" width="250" alt="Hacker Digital" style="border-radius: 10px;" />
     </td>
     <td width="550" style="border: none;">
       <h3>Hi there! 👋 I'm Heru Triyadi</h3>
@@ -64,9 +64,13 @@
 <div align="center">
   <br/>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herutriyadih2-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)](https://github.com/herutriyadih2-cloud)
+  <!-- Menggunakan GitHub Streak Stats (Server Berbeda dan Stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herutriyadih2-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="195"/>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herutriyadih2-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)](https://github.com/herutriyadih2-cloud)
+  <br/><br/>
+  
+  <!-- Menambahkan Grafik Aktivitas Repositori -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herutriyadih2-cloud&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%"/>
   
   <br/>
 </div>
@@ -81,7 +85,7 @@
 
 ### &#9889; "BUILDING EXPERIENCES, ONE PIXEL AT A TIME."
 
-<img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS&v=1" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
 <br/><br/>
 <sub>&#169; 2026 <b>Heru Triyadi</b></sub>
 
