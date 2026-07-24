@@ -24,7 +24,7 @@
 <!-- ======================= TENTANG SAYA ======================= -->
 ## 🧑‍💻 Tentang Saya
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="340" src="./assets/about.svg" alt="terminal about" />
 
 > **Ideas Into Reality** — membangun web yang cepat, rapi, dan berdampak.
 
@@ -88,8 +88,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herutriyadih2-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herutriyadih2-cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="top langs" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herutriyadih2-cloud&theme=2077" alt="profile summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herutriyadih2-cloud&theme=2077" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herutriyadih2-cloud&theme=2077" alt="most commit language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herutriyadih2-cloud&theme=2077" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=herutriyadih2-cloud&theme=2077&utcOffset=7" alt="productive time" />
 
 <br/>
 
@@ -102,25 +107,16 @@
 </div>
 
 <!-- ======================= TROPHY ======================= -->
-## 🏆 Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=herutriyadih2-cloud&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
-
-</div>
-
 <!-- ======================= FEATURED PROJECTS ======================= -->
 ## 📌 Proyek Pilihan
 
 <div align="center">
 
-<a href="https://github.com/herutriyadih2-cloud/heru-triyadi-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=herutriyadih2-cloud&repo=heru-triyadi-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="portfolio" />
-</a>
-<a href="https://github.com/herutriyadih2-cloud/rancangan-drone-fpv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=herutriyadih2-cloud&repo=rancangan-drone-fpv&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="drone fpv" />
-</a>
+| Proyek | Deskripsi | Tech |
+|:--|:--|:--:|
+| 🌐 **[Portfolio Website](https://herutriyadi.my.id)** | Portofolio pribadi interaktif — live di **herutriyadi.my.id** | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) |
+| 🚁 **[Rancangan Drone FPV](https://github.com/herutriyadih2-cloud/rancangan-drone-fpv)** | Desain 3D drone FPV freestyle 5" — model interaktif, firmware, simulator PID, anggaran | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
+| 🤖 **[Smart Drone AI](https://github.com/herutriyadih2-cloud/smart-drone-ai)** | Proposal desain drone berbasis AI (skala internasional) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
 
 </div>
 
@@ -140,17 +136,20 @@
 
 <div align="center">
 
+<a href="https://herutriyadi.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+</a>
 <a href="mailto:herutriyadih2@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-<a href="https://github.com/herutriyadih2-cloud/heru-triyadi-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+<a href="https://wa.me/6285650871521">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
-<a href="https://instagram.com/GANTI_USERNAME_IG">
+<a href="https://instagram.com/betukuk09_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-<a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<a href="https://facebook.com/Apeng">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
 </a>
 
 </div>
