@@ -1,38 +1,38 @@
 <svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'Segoe UI', Arial, sans-serif">
   <!-- ============ DEFINISI ============ -->
   <defs>
-    <!-- Latar luar angkasa (indigo-black, cocok foto profil) -->
+    <!-- Latar luar angkasa (biru-indigo black) -->
     <radialGradient id="bg" cx="72%" cy="40%" r="90%">
-      <stop offset="0%" stop-color="#0d0a1f"/>
-      <stop offset="55%" stop-color="#080614"/>
-      <stop offset="100%" stop-color="#040209"/>
+      <stop offset="0%" stop-color="#0a0d1f"/>
+      <stop offset="55%" stop-color="#070a17"/>
+      <stop offset="100%" stop-color="#04060f"/>
     </radialGradient>
-    <!-- Nebula ungu samar di sekitar globe -->
+    <!-- Nebula samar (indigo) di sekitar globe -->
     <radialGradient id="nebula" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.18"/>
-      <stop offset="55%" stop-color="#4c1d95" stop-opacity="0.07"/>
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.17"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-    <!-- Aksen neon biru-ungu -->
+    <!-- Aksen gabungan: cyan -> indigo -> ungu -->
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#c4b5fd"/>
-      <stop offset="52%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#4f46e5"/>
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
     <radialGradient id="globeGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.32"/>
-      <stop offset="45%" stop-color="#6366f1" stop-opacity="0.10"/>
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.26"/>
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.10"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="globeDisk" cx="40%" cy="38%" r="70%">
-      <stop offset="0%" stop-color="#120d24"/>
-      <stop offset="100%" stop-color="#070312"/>
+      <stop offset="0%" stop-color="#0d1226"/>
+      <stop offset="100%" stop-color="#060312"/>
     </radialGradient>
-    <!-- Ekor meteor (searah lokal 0,0 -> 120,-60) -->
+    <!-- Ekor meteor cyan-biru (searah lokal 0,0 -> 120,-60) -->
     <linearGradient id="meteorTail" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="120" y2="-60">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="16%" stop-color="#c4b5fd"/>
-      <stop offset="55%" stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="16%" stop-color="#67e8f9"/>
+      <stop offset="55%" stop-color="#6366f1" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
     </linearGradient>
     <!-- Neon glow -->
@@ -57,31 +57,31 @@
   <ellipse cx="975" cy="165" rx="330" ry="230" fill="url(#nebula)"/>
 
   <!-- Bintang berkelip -->
-  <g fill="#e9e5ff">
+  <g fill="#dbeafe">
     <circle cx="60" cy="40" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
     <circle cx="140" cy="90" r="0.8"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="210" cy="30" r="1.4" fill="#a78bfa"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="30" r="1.4" fill="#67e8f9"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
     <circle cx="95" cy="150" r="0.9"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="30" cy="210" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite"/></circle>
     <circle cx="175" cy="200" r="0.7"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="120" cy="270" r="1.3" fill="#a78bfa"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="270" r="1.3" fill="#c4b5fd"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
     <circle cx="250" cy="120" r="0.9"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
     <circle cx="300" cy="60" r="1.0"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.0s" repeatCount="indefinite"/></circle>
     <circle cx="330" cy="230" r="1.2"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
     <circle cx="400" cy="40" r="0.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="470" cy="100" r="1.4" fill="#c4b5fd"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="100" r="1.4" fill="#67e8f9"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.0s" repeatCount="indefinite"/></circle>
     <circle cx="520" cy="280" r="0.9"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/></circle>
     <circle cx="560" cy="60" r="1.0"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
     <circle cx="600" cy="180" r="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
     <circle cx="640" cy="300" r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.7s" repeatCount="indefinite"/></circle>
-    <circle cx="700" cy="90" r="1.3" fill="#a78bfa"><animate attributeName="opacity" values="1;0.2;1" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="90" r="1.3" fill="#c4b5fd"><animate attributeName="opacity" values="1;0.2;1" dur="3.0s" repeatCount="indefinite"/></circle>
     <circle cx="720" cy="230" r="0.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
     <circle cx="760" cy="40" r="1.0"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/></circle>
     <circle cx="800" cy="290" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
     <circle cx="850" cy="70" r="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" repeatCount="indefinite"/></circle>
     <circle cx="890" cy="300" r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/></circle>
     <circle cx="1080" cy="40" r="1.0"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
-    <circle cx="1120" cy="120" r="1.4" fill="#c4b5fd"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="120" r="1.4" fill="#67e8f9"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.0s" repeatCount="indefinite"/></circle>
     <circle cx="1150" cy="220" r="0.9"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="1050" cy="280" r="1.1"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
     <circle cx="1170" cy="300" r="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
@@ -116,15 +116,15 @@
     </g>
   </g>
 
-  <!-- ============ GLOBE DIGITAL BERPUTAR (biru-ungu) ============ -->
+  <!-- ============ GLOBE DIGITAL BERPUTAR (gabungan) ============ -->
   <g transform="translate(975,165)">
     <circle r="150" fill="url(#globeGlow)"/>
     <circle r="115" fill="url(#globeDisk)"/>
 
     <!-- Orbit satelit -->
     <g transform="rotate(20)">
-      <use href="#orbit" transform="translate(-975,-165)" fill="none" stroke="#8b5cf6" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="3 7"/>
-      <circle r="4" fill="#c4b5fd" filter="url(#glow)">
+      <use href="#orbit" transform="translate(-975,-165)" fill="none" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1.2" stroke-dasharray="3 7"/>
+      <circle r="4" fill="#67e8f9" filter="url(#glow)">
         <animateMotion dur="9s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbit"/>
         </animateMotion>
@@ -137,7 +137,7 @@
       <ellipse cx="0" cy="-100" rx="56.8" ry="18" stroke-opacity="0.35" stroke-width="1"/>
       <ellipse cx="0" cy="-68"  rx="92.7" ry="30" stroke-opacity="0.45" stroke-width="1"/>
       <ellipse cx="0" cy="-35"  rx="109.5" ry="35" stroke-opacity="0.55" stroke-width="1"/>
-      <ellipse cx="0" cy="0"    rx="115" ry="37" stroke="#8b5cf6" stroke-opacity="0.85" stroke-width="1.3"/>
+      <ellipse cx="0" cy="0"    rx="115" ry="37" stroke="#22d3ee" stroke-opacity="0.85" stroke-width="1.3"/>
       <ellipse cx="0" cy="35"   rx="109.5" ry="35" stroke-opacity="0.55" stroke-width="1"/>
       <ellipse cx="0" cy="68"   rx="92.7" ry="30" stroke-opacity="0.45" stroke-width="1"/>
       <ellipse cx="0" cy="100"  rx="56.8" ry="18" stroke-opacity="0.35" stroke-width="1"/>
@@ -149,32 +149,32 @@
       <ellipse cx="0" cy="0" rx="115" ry="115" stroke-opacity="0.5" stroke-width="1"><animate attributeName="rx" values="115;2;115" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite" begin="-4.67s"/></ellipse>
       <ellipse cx="0" cy="0" rx="115" ry="115" stroke-opacity="0.5" stroke-width="1"><animate attributeName="rx" values="115;2;115" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite" begin="-5.83s"/></ellipse>
 
-      <line x1="0" y1="-115" x2="0" y2="115" stroke="#6366f1" stroke-opacity="0.45" stroke-width="1"/>
+      <line x1="0" y1="-115" x2="0" y2="115" stroke="#8b5cf6" stroke-opacity="0.5" stroke-width="1"/>
 
-      <g fill="#c4b5fd" stroke="none">
+      <g fill="#67e8f9" stroke="none">
         <circle cx="-40" cy="-35" r="2.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
-        <circle cx="45" cy="0" r="2.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+        <circle cx="45" cy="0" r="2.4" fill="#c4b5fd"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
         <circle cx="10" cy="60" r="2.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
-        <circle cx="-60" cy="35" r="2.4"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
+        <circle cx="-60" cy="35" r="2.4" fill="#c4b5fd"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
         <circle cx="30" cy="-60" r="2.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
       </g>
     </g>
 
-    <circle r="115" fill="none" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="1.4" filter="url(#glow)"/>
+    <circle r="115" fill="none" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.4" filter="url(#glow)"/>
   </g>
 
   <!-- ============ TEKS KIRI ============ -->
-  <text x="60" y="72" font-family="'Courier New', monospace" font-size="16" fill="#8b5cf6" opacity="0.9">root@heru:~$ ./launch --profile</text>
-  <rect x="352" y="60" width="9" height="16" fill="#c4b5fd">
+  <text x="60" y="72" font-family="'Courier New', monospace" font-size="16" fill="#22d3ee" opacity="0.9">root@heru:~$ ./launch --profile</text>
+  <rect x="352" y="60" width="9" height="16" fill="#67e8f9">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 
   <g filter="url(#softglow)">
-    <text x="58" y="150" font-size="62" font-weight="800" fill="#c4b5fd" opacity="0.0">HERU TRIYADI
+    <text x="58" y="150" font-size="62" font-weight="800" fill="#67e8f9" opacity="0.0">HERU TRIYADI
       <animate attributeName="opacity" values="0;0.55;0;0;0.4;0" keyTimes="0;0.02;0.05;0.5;0.53;1" dur="4s" repeatCount="indefinite"/>
       <animate attributeName="x" values="58;54;58" keyTimes="0;0.03;0.06" dur="4s" repeatCount="indefinite"/>
     </text>
-    <text x="58" y="150" font-size="62" font-weight="800" fill="#4f46e5" opacity="0.0">HERU TRIYADI
+    <text x="58" y="150" font-size="62" font-weight="800" fill="#a855f7" opacity="0.0">HERU TRIYADI
       <animate attributeName="opacity" values="0;0.5;0;0;0.35;0" keyTimes="0;0.02;0.05;0.5;0.53;1" dur="4s" repeatCount="indefinite"/>
       <animate attributeName="x" values="58;62;58" keyTimes="0;0.03;0.06" dur="4s" repeatCount="indefinite"/>
     </text>
@@ -182,18 +182,18 @@
   </g>
 
   <g clip-path="url(#typeClip)">
-    <text x="60" y="221" font-family="'Courier New', monospace" font-size="22" font-weight="600" fill="#e9e5ff">Frontend Developer • Vue.js • UI/UX</text>
+    <text x="60" y="221" font-family="'Courier New', monospace" font-size="22" font-weight="600" fill="#e0e7ff">Frontend Developer • Vue.js • UI/UX</text>
   </g>
 
-  <g font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#8b5cf6">
-    <g transform="translate(60,250)"><rect width="86" height="26" rx="13" fill="none" stroke="#8b5cf6" stroke-opacity="0.6"/><text x="43" y="17" text-anchor="middle">VUE.JS</text></g>
-    <g transform="translate(156,250)"><rect width="74" height="26" rx="13" fill="none" stroke="#8b5cf6" stroke-opacity="0.6"/><text x="37" y="17" text-anchor="middle">UI/UX</text></g>
-    <g transform="translate(240,250)"><rect width="62" height="26" rx="13" fill="none" stroke="#8b5cf6" stroke-opacity="0.6"/><text x="31" y="17" text-anchor="middle">SEO</text></g>
-    <g transform="translate(312,250)"><rect width="130" height="26" rx="13" fill="none" stroke="#8b5cf6" stroke-opacity="0.6"/><text x="65" y="17" text-anchor="middle">AI &amp; AUTOMATION</text></g>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700">
+    <g transform="translate(60,250)" fill="#22d3ee"><rect width="86" height="26" rx="13" fill="none" stroke="#22d3ee" stroke-opacity="0.7"/><text x="43" y="17" text-anchor="middle">VUE.JS</text></g>
+    <g transform="translate(156,250)" fill="#3b82f6"><rect width="74" height="26" rx="13" fill="none" stroke="#3b82f6" stroke-opacity="0.7"/><text x="37" y="17" text-anchor="middle">UI/UX</text></g>
+    <g transform="translate(240,250)" fill="#6366f1"><rect width="62" height="26" rx="13" fill="none" stroke="#6366f1" stroke-opacity="0.7"/><text x="31" y="17" text-anchor="middle">SEO</text></g>
+    <g transform="translate(312,250)" fill="#a855f7"><rect width="130" height="26" rx="13" fill="none" stroke="#a855f7" stroke-opacity="0.7"/><text x="65" y="17" text-anchor="middle">AI &amp; AUTOMATION</text></g>
   </g>
 
-  <rect x="0" width="1200" height="2" fill="#8b5cf6" opacity="0.06">
+  <rect x="0" width="1200" height="2" fill="#6366f1" opacity="0.06">
     <animate attributeName="y" values="0;330;0" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <rect x="1.5" y="1.5" width="1197" height="327" rx="14" fill="none" stroke="#8b5cf6" stroke-opacity="0.18" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="1197" height="327" rx="14" fill="none" stroke="#6366f1" stroke-opacity="0.2" stroke-width="1.5"/>
 </svg>

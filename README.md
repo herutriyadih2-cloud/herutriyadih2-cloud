@@ -5,14 +5,14 @@
 
 <!-- ======================= TYPING EFFECT ======================= -->
 <a href="https://github.com/herutriyadih2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Heru+Triyadi+%F0%9F%91%8B;Frontend+Developer+spesialis+Vue.js;UI%2FUX+Designer+%C2%B7+Turning+Ideas+Into+Reality;SEO+%26+AI+Automation+Enthusiast+%F0%9F%A4%96;Terbuka+untuk+kolaborasi+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Heru+Triyadi+%F0%9F%91%8B;Frontend+Developer+spesialis+Vue.js;UI%2FUX+Designer+%C2%B7+Turning+Ideas+Into+Reality;SEO+%26+AI+Automation+Enthusiast+%F0%9F%A4%96;Terbuka+untuk+kolaborasi+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- ======================= BADGES ATAS ======================= -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/herutriyadih2-cloud?tab=followers">
-    <img src="https://img.shields.io/github/followers/herutriyadih2-cloud?label=Follow&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" />
+    <img src="https://img.shields.io/github/followers/herutriyadih2-cloud?label=Follow&style=for-the-badge&color=6366f1&logo=github" alt="followers" />
   </a>
 </p>
 
@@ -84,11 +84,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=herutriyadih2-cloud&hide_border=true&background=0D0A1F&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=C4B5FD&sideLabels=E9E5FF&dates=6D6A9C" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=herutriyadih2-cloud&hide_border=true&background=0A0D1F&stroke=6366F1&ring=22D3EE&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=A5B4FC&sideLabels=E0E7FF&dates=6D75A6" alt="streak" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=herutriyadih2-cloud&hide_border=true&bg_color=0D0A1F&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=herutriyadih2-cloud&hide_border=true&bg_color=0A0D1F&color=A78BFA&line=22D3EE&point=8B5CF6&area=true&area_color=6366F1" alt="activity graph" />
 
 </div>
 
@@ -143,6 +143,6 @@
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:8b5cf6,100:a78bfa&height=120&section=footer&text=Terima%20kasih%20sudah%20mampir!&fontSize=22&fontColor=0d0a1f&animation=twinkling&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:22d3ee&height=120&section=footer&text=Terima%20kasih%20sudah%20mampir!&fontSize=22&fontColor=0a0d1f&animation=twinkling&fontAlignY=70" alt="footer"/>
 
 </div>
