@@ -34,7 +34,7 @@
 - 🤖 **AI & Automation** — solusi cerdas untuk pekerjaan repetitif
 - 🚁 Suka eksplor **drone FPV & Smart Drone AI**
 - 🌱 Sedang mendalami: **Vue.js, Node.js & Tailwind CSS**
-- 📍 Berbasis di **Pontianak, Indonesia** 🇮🇩
+- 📍 Berbasis di **Kalimantan Barat, Indonesia** 🇮🇩
 - ⚡ Fun fact: ngoding sambil ngopi itu paket lengkap ☕
 
 <br clear="right"/>
