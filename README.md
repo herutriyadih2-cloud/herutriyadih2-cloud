@@ -1,92 +1,170 @@
+<!-- ======================= BANNER GLOBE DIGITAL (animasi) ======================= -->
 <div align="center">
 
-<!-- Banner Section -->
-<img src="banner.svg.gif" alt="HERU TRIYADI" width="100%"/>
+<img width="100%" src="./assets/banner.svg" alt="Heru Triyadi — Frontend Developer & UI/UX Designer" />
 
-<br/><br/>
+<!-- ======================= TYPING EFFECT ======================= -->
+<a href="https://github.com/herutriyadih2-cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Heru+Triyadi+%F0%9F%91%8B;Frontend+Developer+spesialis+Vue.js;UI%2FUX+Designer+%C2%B7+Turning+Ideas+Into+Reality;SEO+%26+AI+Automation+Enthusiast+%F0%9F%A4%96;Terbuka+untuk+kolaborasi+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<!-- Contact Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herutriyadih2@gmail.com)
+<!-- ======================= BADGES ATAS ======================= -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/herutriyadih2-cloud?tab=followers">
+    <img src="https://img.shields.io/github/followers/herutriyadih2-cloud?label=Follow&style=for-the-badge&color=2563eb&logo=github" alt="followers" />
+  </a>
+  <a href="https://github.com/herutriyadih2-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-6-3b82f6?style=for-the-badge&logo=github" alt="repos" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+<!-- ======================= TENTANG SAYA ======================= -->
+## 🧑‍💻 Tentang Saya
 
----
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-### &#128104;&#8205;&#128187; ABOUT ME
+> **Ideas Into Reality** — membangun web yang cepat, rapi, dan berdampak.
 
-<br/>
+- 💻 **Frontend Developer** — spesialis **Vue.js**
+- 🎨 **UI/UX Designer** — desain modern, minimalis, & fungsional
+- 🔍 **SEO Specialist** — optimasi peringkat, traffic, & pertumbuhan
+- 🤖 **AI & Automation** — solusi cerdas untuk pekerjaan repetitif
+- 🚁 Suka eksplor **drone FPV & Smart Drone AI**
+- 🌱 Sedang mendalami: **Vue.js, Node.js & Tailwind CSS**
+- 📍 Berbasis di **Pontianak, Indonesia** 🇮🇩
+- ⚡ Fun fact: ngoding sambil ngopi itu paket lengkap ☕
 
-<table align="center" border="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" width="350" style="border: none;">
-      <!-- Logo Digital Hacker -->
-      <img src="https://media.tenor.com/4zQO53v90bIAAAAi/hacker-typing.gif" width="250" alt="Hacker Digital" style="border-radius: 10px;" />
-    </td>
-    <td width="550" style="border: none;">
-      <h3>Hi there! 👋 I'm Heru Triyadi</h3>
-      <p>I am a passionate <strong>Frontend Developer</strong> with a strong focus on <b>Vue.js</b> and <b>UI/UX Design</b>. I love transforming ideas into beautifully coded, intuitive interfaces that provide great user experiences.</p>
-      <br/>
-      🌱 <b>Currently exploring:</b> Advanced Vue Ecosystem & Modern UI <br>
-      🤝 <b>Open for:</b> Collaboration on awesome web projects <br>
-      💬 <b>Ask me about:</b> Frontend, Vue.js, and Web Animations <br>
-      📫 <b>Reach me at:</b> <a href="mailto:herutriyadih2@gmail.com">herutriyadih2@gmail.com</a>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
-<br/>
-
----
-
-### &#128736; TECH STACK & TOOLS
+<!-- ======================= KEAHLIAN / LAYANAN ======================= -->
+## 🚀 Keahlian & Layanan
 
 <div align="center">
-  <br/>
-  <p><b>Languages & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,sass&theme=dark&perline=10"/>
-  <br/><br/>
-  <p><b>UI/UX & Development Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,npm,vite&theme=dark&perline=10"/>
-  <br/>
+
+| 🌐 Web Development | 🎨 UI/UX Design | 🔍 SEO Optimization | 🤖 AI & Automation |
+|:---:|:---:|:---:|:---:|
+| HTML · CSS · JS · Vue | Modern & Minimal | Rank · Traffic · Growth | Smart Solution |
+
 </div>
 
-<br/>
-
----
-
-### &#128202; GITHUB STATS
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <br/>
-  
-  <!-- Menggunakan GitHub Streak Stats (Server Berbeda dan Stabil) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herutriyadih2-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="195"/>
-  
-  <br/><br/>
-  
-  <!-- Menambahkan Grafik Aktivitas Repositori -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herutriyadih2-cloud&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%"/>
-  
-  <br/>
+
+### Bahasa & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Framework & Library
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+<!-- Ikon animasi bergaya (skillicons) -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,sass,vite,nodejs,python,figma,git,github,vscode,npm&perline=8" alt="skill icons" />
+
 </div>
 
-<br/>
-
----
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 Statistik GitHub
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0ea5e9,100:04060f&height=120&section=footer"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herutriyadih2-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herutriyadih2-cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="top langs" />
 
-### &#9889; "BUILDING EXPERIENCES, ONE PIXEL AT A TIME."
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=herutriyadih2-cloud&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
-<br/><br/>
-<sub>&#169; 2026 <b>Heru Triyadi</b></sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=herutriyadih2-cloud&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=3B82F6&fire=67E8F9&currStreakLabel=22D3EE" alt="streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=herutriyadih2-cloud&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=3B82F6&point=67E8F9" alt="activity graph" />
+
+</div>
+
+<!-- ======================= TROPHY ======================= -->
+## 🏆 Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=herutriyadih2-cloud&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+
+</div>
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+## 📌 Proyek Pilihan
+
+<div align="center">
+
+<a href="https://github.com/herutriyadih2-cloud/heru-triyadi-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=herutriyadih2-cloud&repo=heru-triyadi-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="portfolio" />
+</a>
+<a href="https://github.com/herutriyadih2-cloud/rancangan-drone-fpv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=herutriyadih2-cloud&repo=rancangan-drone-fpv&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="drone fpv" />
+</a>
+
+</div>
+
+<!-- ======================= SNAKE ANIMATION ======================= -->
+## 🐍 Kontribusi
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/herutriyadih2-cloud/herutriyadih2-cloud/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<sub>Animasi ular muncul otomatis setelah GitHub Action pertama berjalan.</sub>
+
+</div>
+
+<!-- ======================= KONTAK / SOSIAL ======================= -->
+## 📫 Hubungi Saya
+
+<div align="center">
+
+<a href="mailto:herutriyadih2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://github.com/herutriyadih2-cloud/heru-triyadi-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://instagram.com/GANTI_USERNAME_IG">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
+</div>
+
+<!-- ======================= QUOTE ======================= -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+
+</div>
+
+<!-- ======================= FOOTER ======================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:22d3ee,100:67e8f9&height=120&section=footer&text=Terima%20kasih%20sudah%20mampir!&fontSize=22&fontColor=0a0b0b&animation=twinkling&fontAlignY=70" alt="footer"/>
 
 </div>
