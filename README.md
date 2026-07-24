@@ -35,6 +35,19 @@
 
 <br clear="right"/>
 
+<!-- ======================= SEDANG DIKERJAKAN ======================= -->
+## ⚡ Sedang Dikerjakan
+
+<img align="right" width="340" src="./assets/coding.svg" alt="coding illustration" />
+
+- 🔭 Membangun **website & web app** modern dengan **Vue.js & Nuxt**
+- 🎨 Mendalami **UI/UX & animasi web** tingkat lanjut
+- 🤖 Mengembangkan **otomasi & AI** — SkripsiTools & laporan otomatis
+- 🚁 Eksplorasi **drone FPV & Smart Drone AI**
+- 🚀 **Terbuka untuk proyek freelance & kolaborasi remote**
+
+<br clear="right"/>
+
 <!-- ======================= KEAHLIAN / LAYANAN ======================= -->
 ## 🚀 Keahlian & Layanan
 
