@@ -14,9 +14,6 @@
   <a href="https://github.com/herutriyadih2-cloud?tab=followers">
     <img src="https://img.shields.io/github/followers/herutriyadih2-cloud?label=Follow&style=for-the-badge&color=2563eb&logo=github" alt="followers" />
   </a>
-  <a href="https://github.com/herutriyadih2-cloud?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-3b82f6?style=for-the-badge&logo=github" alt="repos" />
-  </a>
 </p>
 
 </div>
