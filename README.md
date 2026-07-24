@@ -35,7 +35,6 @@
 - 🚁 Suka eksplor **drone FPV & Smart Drone AI**
 - 🌱 Sedang mendalami: **Vue.js, Node.js & Tailwind CSS**
 - 📍 Berbasis di **Kalimantan Barat, Indonesia** 🇮🇩
-- ⚡ Fun fact: ngoding sambil ngopi itu paket lengkap ☕
 
 <br clear="right"/>
 
@@ -151,13 +150,6 @@
 <a href="https://facebook.com/Apeng">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
 </a>
-
-</div>
-
-<!-- ======================= QUOTE ======================= -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 
 </div>
 
